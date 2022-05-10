@@ -1,4 +1,6 @@
-This project was developed by Michael Lew for the RTA 828 - Video Game Design course
+This project was developed by Michael Lew for the RTA 828 - Video Game Design course.
+
+For a video sample of gameplay and my design process: https://youtu.be/xnfu7VcMkdE
 
 The project makes use of imported assets from the Unreal Engine store and other sources. 
 All creative rights belong to the creators of those assets or Epic games, and are available to use according to their respective licenses.
