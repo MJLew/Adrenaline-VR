@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Specific Files
+Builds/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.exe
+Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.pdb
