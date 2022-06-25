@@ -21,6 +21,3 @@ Construction_VOL2
 heartbeat-01a
 
 Syringe materials and shaders
-
-
-If you are the creator of any assets I did not mention, please let me know so that I can give proper credit to you.
